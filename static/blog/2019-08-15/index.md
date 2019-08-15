@@ -4,11 +4,11 @@
 ### 一 修改webpack以及package.json
 >打开webpack.config.js（或者build文件夹下webpack.base.conf.js）如下图修改
 
->![图片](static\\blog\\2019-08-15\\4992540-6695a640492df159.png)
+>![图片](static/blog/2019-08-15/4992540-6695a640492df159.png)
 
 >打开package.json如下图修改
 
->![图片](static\\blog\\2019-08-15\\12.png)
+>![图片](static/blog/2019-08-15/12.png)
 
 ### 二 发布npm
 >在[npm官网](https://www.npmjs.com/)注册一个账号
